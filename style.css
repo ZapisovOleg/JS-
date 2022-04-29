@@ -1,0 +1,19 @@
+.user-section{
+    text-align: center;
+    background-color: black;
+}
+button{
+    margin-top: 20px;
+}
+#userQuestion{
+    margin-bottom: 10px;
+}
+input{
+    border-radius: 5px;
+}
+h1{
+    color: yellow;
+}
+span{
+    color: blue;
+}
